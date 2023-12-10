@@ -1,0 +1,53 @@
+Date : 2022-08-23 02:13:12
+Directory : d:\Web Development\React Course\quotes
+Total : 18 files,  28936 codes, 0 comments, 81 blanks, all 29017 lines
+
+Languages
++------------------+------------+------------+------------+------------+------------+
+| language         | files      | code       | comment    | blank      | total      |
++------------------+------------+------------+------------+------------+------------+
+| JSON             |          3 |     28,594 |          0 |          3 |     28,597 |
+| CSS              |          6 |        146 |          0 |         21 |        167 |
+| JavaScript       |          2 |         81 |          0 |         10 |         91 |
+| JavaScript React |          4 |         53 |          0 |         10 |         63 |
+| Markdown         |          1 |         38 |          0 |         33 |         71 |
+| HTML             |          1 |         23 |          0 |          4 |         27 |
+| XML              |          1 |          1 |          0 |          0 |          1 |
++------------------+------------+------------+------------+------------+------------+
+
+Directories
++--------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                           | files      | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                              |         18 |     28,936 |          0 |         81 |     29,017 |
+| public                                                                         |          2 |         48 |          0 |          5 |         53 |
+| src                                                                            |         13 |        281 |          0 |         41 |        322 |
+| src\Components                                                                 |          8 |        187 |          0 |         28 |        215 |
+| src\Components\Layout                                                          |          2 |         31 |          0 |          4 |         35 |
+| src\Components\UI                                                              |          6 |        156 |          0 |         24 |        180 |
++--------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++--------------------------------------------------------------------------------+------------------+------------+------------+------------+------------+
+| filename                                                                       | language         | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------------+------------------+------------+------------+------------+------------+
+| d:\Web Development\React Course\quotes\README.md                               | Markdown         |         38 |          0 |         33 |         71 |
+| d:\Web Development\React Course\quotes\package-lock.json                       | JSON             |     28,531 |          0 |          1 |     28,532 |
+| d:\Web Development\React Course\quotes\package.json                            | JSON             |         38 |          0 |          1 |         39 |
+| d:\Web Development\React Course\quotes\public\index.html                       | HTML             |         23 |          0 |          4 |         27 |
+| d:\Web Development\React Course\quotes\public\manifest.json                    | JSON             |         25 |          0 |          1 |         26 |
+| d:\Web Development\React Course\quotes\src\App.css                             | CSS              |          4 |          0 |          2 |          6 |
+| d:\Web Development\React Course\quotes\src\App.js                              | JavaScript       |         71 |          0 |          9 |         80 |
+| d:\Web Development\React Course\quotes\src\Components\Layout\Header.jsx        | JavaScript React |         13 |          0 |          2 |         15 |
+| d:\Web Development\React Course\quotes\src\Components\Layout\Header.module.css | CSS              |         18 |          0 |          2 |         20 |
+| d:\Web Development\React Course\quotes\src\Components\UI\Button.jsx            | JavaScript React |         17 |          0 |          2 |         19 |
+| d:\Web Development\React Course\quotes\src\Components\UI\Button.module.css     | CSS              |         22 |          0 |          2 |         24 |
+| d:\Web Development\React Course\quotes\src\Components\UI\Card.jsx              | JavaScript React |         13 |          0 |          3 |         16 |
+| d:\Web Development\React Course\quotes\src\Components\UI\Card.module.css       | CSS              |         78 |          0 |         13 |         91 |
+| d:\Web Development\React Course\quotes\src\Components\UI\Loading.jsx           | JavaScript React |         10 |          0 |          3 |         13 |
+| d:\Web Development\React Course\quotes\src\Components\UI\Loading.module.css    | CSS              |         16 |          0 |          1 |         17 |
+| d:\Web Development\React Course\quotes\src\index.css                           | CSS              |          8 |          0 |          1 |          9 |
+| d:\Web Development\React Course\quotes\src\index.js                            | JavaScript       |         10 |          0 |          1 |         11 |
+| d:\Web Development\React Course\quotes\src\logo.svg                            | XML              |          1 |          0 |          0 |          1 |
+| Total                                                                          |                  |     28,936 |          0 |         81 |     29,017 |
++--------------------------------------------------------------------------------+------------------+------------+------------+------------+------------+
